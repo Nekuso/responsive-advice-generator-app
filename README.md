@@ -4,7 +4,6 @@
 
 ### Responsive Advice Generator App
 
-
 - Responsive Todo app website Using HTML SCSS & JavaScript
 - Developed first with the Mobile First methodology, then for desktop.
 - View the optimal layout for the app depending on their device's screen size
